@@ -2,46 +2,47 @@
 
 ### Socials
 <a href="https://www.linkedin.com/in/william-moreira-da-silva-4215a1105/">
-  <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=272727&labelColor=FFDE59&color=002B64">
 </a>
 
 
 ### Programming Languages
 <div>
-  <img height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img height="25px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img height="25px" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
-  <img height="25px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img height="25px" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=272727&labelColor=FFDE59&color=002B64">
 </div>
 
 ### Techs and Frameworks
 <div>  
-  <img height="25px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img height="25px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img height="25px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img height="25px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img height="25px" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img height="25px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img height="25px" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  <img height="25px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img height="25px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img height="25px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img height="25px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img height="25px" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img height="25px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=272727&labelColor=FFDE59&color=002B64">
+  <img height="25px" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=272727&labelColor=FFDE59&color=002B64">
 </div>
+
 
 ### Setup
 <div>
-    <img height="25px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-    <img height="25px" src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-    <img height="25px" src= "https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white">
+    <img height="25px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=272727&labelColor=FFDE59&color=002B64">
+    <img height="25px" src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=272727&labelColor=FFDE59&color=002B64">
+    <img height="25px" src= "https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=272727&labelColor=FFDE59&color=002B64">
 </div>
 
 ### GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=williamMDsilva&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=williamMDsilva&show_icons=true&theme=transparent&bg_color=002B64&title_color=000000&icon_color=FFDE59&text_color=FFDE59" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamMDsilva&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=450" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamMDsilva&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=250&bg_color=002B64&title_color=000000&icon_color=FFDE59&text_color=FFDE59" />
 </a>
