@@ -40,9 +40,7 @@
 </div>
 
 ### GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=williamMDsilva&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&bg_color=002B64&title_color=000000&icon_color=FFDE59&text_color=FFDE59" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamMDsilva&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&layout=compact&langs_count=8&card_width=250&bg_color=002B64&title_color=000000&icon_color=FFDE59&text_color=FFDE59" />
-</a>
+<div>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=williamMDsilva&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&bg_color=002B64&title_color=FFFFFF&icon_color=FFDE59&text_color=FFDE59" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamMDsilva&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&layout=compact&langs_count=8&bg_color=002B64&title_color=FFFFFF&icon_color=FFDE59&text_color=FFDE59" />
+</div>
