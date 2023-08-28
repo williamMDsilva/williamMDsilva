@@ -5,6 +5,7 @@
   <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=272727&labelColor=FFDE59&color=002B64">
 </a>
 
+##
 
 ### Programming Languages
 <div>
@@ -14,6 +15,8 @@
   <img height="25px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=272727&labelColor=FFDE59&color=002B64">
   <img height="25px" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=272727&labelColor=FFDE59&color=002B64">
 </div>
+
+##
 
 ### Techs and Frameworks
 <div>  
@@ -31,6 +34,7 @@
   <img height="25px" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=272727&labelColor=FFDE59&color=002B64">
 </div>
 
+##
 
 ### Setup
 <div>
@@ -38,6 +42,8 @@
     <img height="25px" src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=272727&labelColor=FFDE59&color=002B64">
     <img height="25px" src= "https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=272727&labelColor=FFDE59&color=002B64">
 </div>
+
+##
 
 ### GitHub Stats
 <div>
