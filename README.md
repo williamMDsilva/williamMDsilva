@@ -47,6 +47,9 @@
 
 ### GitHub Stats
 <div>
+<!--    -->
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=williamMDsilva&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&bg_color=002B64&title_color=FFFFFF&icon_color=FFDE59&text_color=FFDE59" />
+<!--   <img height=200 align="center" src="https://my-onw-stats.vercel.app/api?username=williamMDsilva&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&bg_color=002B64&title_color=FFFFFF&icon_color=FFDE59&text_color=FFDE59" /> -->
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamMDsilva&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&layout=compact&langs_count=8&bg_color=002B64&title_color=FFFFFF&icon_color=FFDE59&text_color=FFDE59" />
+<!--     <img height=200 align="center" src="https://my-onw-stats.vercel.app/api/top-langs?username=williamMDsilva&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&layout=compact&langs_count=8&bg_color=002B64&title_color=FFFFFF&icon_color=FFDE59&text_color=FFDE59" /> -->
 </div>
