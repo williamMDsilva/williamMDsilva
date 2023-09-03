@@ -1,6 +1,8 @@
-![banner](https://github.com/williamMDsilva/williamMDsilva/assets/15850924/cae17ac5-29bc-4eed-b4dc-ae24f9189f2f)
+![banner](https://github.com/williamMDsilva/williamMDsilva/assets/15850924/7ee248d6-1afc-41c8-ac3f-8cd4aa75cf43)
 
 ### Socials
+
+
 <a href="https://www.linkedin.com/in/william-moreira-da-silva-4215a1105/">
   <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=272727&labelColor=FFDE59&color=002B64">
 </a>
