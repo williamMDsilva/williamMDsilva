@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/william-moreira-da-silva-4215a1105/">
   <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=272727&labelColor=FFC219&color=002B64&textColor=F0F6F6">
 </a>
+<a href="https://dev.to/williammdsilva/">
+  <img height="25px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=272727&labelColor=FFC219&color=002B64&textColor=F0F6F6">
+</a>
 
 ##
 
